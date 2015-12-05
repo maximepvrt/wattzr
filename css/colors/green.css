@@ -1,0 +1,235 @@
+/**
+ * ==============================================================
+ * EOS - RESPONSIVE BOOTSTRAP MOBILE APP LANDING PAGE TEMPLATE
+ * ==============================================================
+ *
+ * PALETTE:
+ * #2196F3
+ * #1976D2
+ * #38a3ab
+ * #649430
+ * #33959c
+ * #2d848a
+ * #2a7b81
+ */
+
+/**
+ * ========================================
+ * MAIN LAYOUT
+ * ========================================
+ */
+
+.accent-background-overlay {
+	background-color: #2196F3;
+}
+
+/* BOOTSTRAP PRIMARY COLOR */
+a {
+	color: #2196F3;
+}
+a:focus, a:hover {
+	color: #1976D2;
+}
+.text-primary {
+	color: #2196F3;
+}
+a.text-primary:hover {
+	color: #1976D2;
+}
+.bg-primary {
+	background-color: #2196F3;
+}
+a.bg-primary:hover {
+	background-color: #1976D2;
+}
+.btn-primary {
+	background-color: #2196F3;
+	border-color: #1976D2;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+	background-color: #1976D2;
+	border-color: #2196F3;
+}
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled.focus,
+.btn-primary[disabled].focus,
+fieldset[disabled] .btn-primary.focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active {
+	background-color: #2196F3;
+}
+.btn-primary .badge {
+	color: #2196F3;
+}
+.btn-link {
+	color: #2196F3;
+}
+.btn-link:hover,
+.btn-link:focus {
+	color: #1976D2;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+	background-color: #2196F3;
+}
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus {
+	border-color: #2196F3;
+}
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+	background-color: #2196F3;
+}
+.pagination > li > a,
+.pagination > li > span {
+	color: #2196F3;
+}
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+	color: #1976D2;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+	background-color: #2196F3;
+	border-color: #2196F3;
+}
+.label-primary {
+	background-color: #1976D2;
+}
+.label-primary[href]:hover,
+.label-primary[href]:focus {
+	background-color: #2196F3;
+}
+a.list-group-item.active > .badge,
+.nav-pills > .active > a > .badge {
+	color: #2196F3;
+}
+a.thumbnail:hover,
+a.thumbnail:focus,
+a.thumbnail.active {
+	border-color: #2196F3;
+}
+.progress-bar {
+	background-color: #2196F3;
+}
+.list-group-item.active,
+.list-group-item.active:hover,
+.list-group-item.active:focus {
+	background-color: #2196F3;
+	border-color: #2196F3;
+}
+.panel-primary {
+	border-color: #2196F3;
+}
+.panel-primary > .panel-heading {
+	background-color: #2196F3;
+	border-color: #2196F3;
+}
+.panel-primary > .panel-heading + .panel-collapse > .panel-body {
+	border-top-color: #2196F3;
+}
+.panel-primary > .panel-heading .badge {
+	color: #2196F3;
+}
+.panel-primary > .panel-footer + .panel-collapse > .panel-body {
+	border-bottom-color: #2196F3;
+}
+
+/**
+ * ========================================
+ * HEADINGS
+ * ========================================
+ */
+
+.section-heading:after {
+	background-color: #2196F3;
+}
+
+/**
+ * ========================================
+ * LIST
+ * ========================================
+ */
+
+.features-icon-list-item:hover i {
+	background-color: #2196F3;
+}
+.list-with-icons li > i[class*="icon-"],
+.list-with-icons li > i[class*="fa-"] {
+	color: #2196F3;
+}
+
+/**
+ * ========================================
+ * HEADER SECTION
+ * ========================================
+ */
+
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li.current > a {
+	color: #2196F3;
+}
+
+/**
+ * ========================================
+ * PRICING SECTION
+ * ========================================
+ */
+
+.pricing-package-items li > i.fa-check {
+	color: #2196F3;
+}
+.pricing-table li:nth-child(1) .pricing-package-strip {
+	background-color: #2196F3;
+}
+.pricing-table li:nth-child(2) .pricing-package-strip {
+	background-color: #2196F3;
+}
+.pricing-table li:nth-child(3) .pricing-package-strip {
+	background-color: #2196F3;
+}
+
+/**
+ * ========================================
+ * FOOTER SECTION
+ * ========================================
+ */
+
+.social-media-links li a:focus, .social-media-links li a:hover {
+	background-color: #2196F3;
+}
+
+/**
+ * JPRELOADER
+ */
+
+#jpreBar {
+	background-color: #2196F3;
+}
